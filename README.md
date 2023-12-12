@@ -1,5 +1,7 @@
 # Git
 
+Проект [моего приложения](https://github.com/kazzrom/ConnectingDBToApp.git)
+
 Status: Полезные ресурсы
 
 Этапы сохранений:
