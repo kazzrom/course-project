@@ -2,3 +2,10 @@ https://learn.microsoft.com/ru-ru/windows/apps/develop/data-access/
 https://studfile.net/preview/16469734/
 https://journalovirus.ru/tipy-polzovatelskogo-interfeysa-klassifikatsiya-it-sistem
 https://neiros.ru/blog/code/chto-znachit-termin-interfeys-i-18-vidov-ego-realizatsii/
+https://visualstudio.microsoft.com/ru/vs/features/web/languages/
+https://visualstudio.microsoft.com/ru/
+https://ru.wikipedia.org/wiki/CLion
+https://ru.wikipedia.org/wiki/Electron_(фреймворк)
+https://habr.com/ru/articles/528614/
+https://csharp.webdelphi.ru/windows-presentation-foundation-wpf/#_wpf
+https://learn.microsoft.com/ru-ru/dotnet/architecture/modernize-desktop/why-modern-applications
