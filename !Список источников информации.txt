@@ -9,3 +9,4 @@ https://ru.wikipedia.org/wiki/Electron_(фреймворк)
 https://habr.com/ru/articles/528614/
 https://csharp.webdelphi.ru/windows-presentation-foundation-wpf/#_wpf
 https://learn.microsoft.com/ru-ru/dotnet/architecture/modernize-desktop/why-modern-applications
+https://ru.wikipedia.org/wiki/C_Sharp
